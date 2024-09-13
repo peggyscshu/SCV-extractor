@@ -2,6 +2,9 @@
 
 Extract SCV structures from the fluorescence images with Lamp1 and DAPI.
 
+![image](https://github.com/user-attachments/assets/c2203ca0-be15-4e6a-9102-6cf7c854aad3)
+
+
 ## Biological question to be resolved
 Intracellular Salmonella are confined in membrane-bound compartments termed Salmonella-containing vacuoles (SCVs) which acquire late endosomal markers. By the coexistence of the lysosomal membrane proteins such as LAMP1 and the bacterial DNA, SCV can be recognized easily by human eyes. However, these staining patterns are mixed with cellular lysosomes without bacteria and the nucleus of the parasitic cell respectively (Fig.1). By simply binarize the DNA staining or LAMP1 staining channel, SCVs are either under- or over-estimated (Fig. 2). Here I established a workflow to extract SCVs by the assistance of the machine learning tool ilastik for further quantification requests.
 
