@@ -1,4 +1,5 @@
-# SCV-extractor
+# SCV-extractor                  ![image](https://github.com/user-attachments/assets/309a7555-d2cf-437e-a58c-d7861f73105b)
+
 Extract SCV structures from the fluorescence images with Lamp1 and DAPI.
 
 ## Biological question to be resolved
