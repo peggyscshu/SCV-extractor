@@ -39,6 +39,9 @@ https://www.ilastik.org/
 4.	Try the provided model first. If the result is not as your expectation, please train a new one with your dataset with the pixel classification of ilastik. 
 
 ## Published with
+
+## Acknowledgements
+This work was supported by National Science and Technology Council NSTC 113-2320-B-002-076 to Shao-Chun Hsu.
  
 
 
