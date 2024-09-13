@@ -24,7 +24,7 @@ Channel 3  DAPI
 The workflow is composed by 3 parts. 
 1. Extract bacterial DNA and add back as an additional channel to the raw dataset from Leica lif file by a Fiji script (SCV extractor from lif_A_ilastik.ijm). A trained ilastik project for 3D images is also included in this GitHub (ExM_Salmonella DNA.ilp). Please be aware that the pretrained project may not fit diverse infection conditions. It is required to train your own model by your own dataset if it is needed. 
 2. Semi-automatically remove non-infected cells by another Fiji script (SCV extractor from lif_B_remove uninfected cells.ijm).
-3. Generate Lamp1, SCV and CIC 3D surfaces with Imaris in the batch format. The parameters for batch processing is included (SCV and CIC Surfaces.icsx).
+3. Generate Lamp1, SCV and CIC 3D surfaces with Imaris in the batch format. The parameters for batch processing is included (SCV extractor.icsx).
 
 ## Requirements
 1. Fiji
