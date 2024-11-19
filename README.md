@@ -2,7 +2,7 @@
 
 https://zenodo.org/records/13756849
 
-
+[![DOI](https://zenodo.org/badge/388534324.svg)](https://zenodo.org/badge/latestdoi/388534324)
 Extract SCV structures from the fluorescence images with Lamp1 and DAPI.
 
 ![image](https://github.com/user-attachments/assets/c2203ca0-be15-4e6a-9102-6cf7c854aad3)
