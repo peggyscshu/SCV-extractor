@@ -1,4 +1,5 @@
-# SCV-extractor                  ![image](https://github.com/user-attachments/assets/ba0828c0-bdf6-4116-9c5f-fc8249e37308)
+# SCV-extractor                  ![image](https://github.com/user-attachments/assets/9513fb3b-8b75-4b32-8bbb-088f24a33dd7)
+
 https://zenodo.org/records/13756849
 
 
