@@ -1,4 +1,5 @@
 # SCV-extractor                  ![image](https://github.com/user-attachments/assets/ba0828c0-bdf6-4116-9c5f-fc8249e37308)
+https://zenodo.org/records/13756849
 
 
 Extract SCV structures from the fluorescence images with Lamp1 and DAPI.
